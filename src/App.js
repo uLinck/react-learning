@@ -1,21 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <p>oia o gatinho ai</p>
+        <img src='https://media.tenor.com/NFjEeHbk-zwAAAAC/cat.gif' className="catGif" alt="cat" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          testing <code>react-app</code>
         </p>
-        <a
+        <a 
           className="App-link"
-          href="https://reactjs.org"
+          href="https://instagram.com/linckfx"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          meu insta p ver se funciona
         </a>
       </header>
     </div>
